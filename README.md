@@ -2,7 +2,7 @@
 <p>My name is @jaycee-dee I work in IT </p>
 <p>Some interests I have are programming, photography and gaming</p>
 
-<h2> Current Project </h2>
+<h2> Current Hobby Project </h2>
 <p>I am currently creating a prototype isometric RPG using SGDK.</p>
 
 <h2> Languages </h2>
